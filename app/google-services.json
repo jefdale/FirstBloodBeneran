@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "737353401479",
+    "firebase_url": "https://firstblood-27c9b.firebaseio.com",
+    "project_id": "firstblood-27c9b",
+    "storage_bucket": "firstblood-27c9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737353401479:android:9ffa56e083bd730a",
+        "android_client_info": {
+          "package_name": "com.example.dale.firstblood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737353401479-nd58bg9hg8v7csirsba4o79oass7ttqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArEXAPCkZwjHL1fQrKj-O2ArF2NkiyRDw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

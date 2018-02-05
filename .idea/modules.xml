@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FirstBlood.iml" filepath="$PROJECT_DIR$/FirstBlood.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\FirstBloodBeneran\FirstBlood.iml" filepath="E:\FirstBloodBeneran\FirstBlood.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstBloodBeneran.iml" filepath="$PROJECT_DIR$/FirstBloodBeneran.iml" />
+      <module fileurl="file://E:\FirstBloodBeneran\app\app.iml" filepath="E:\FirstBloodBeneran\app\app.iml" />
     </modules>
   </component>
 </project>
